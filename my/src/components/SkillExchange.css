@@ -1,0 +1,87 @@
+/* SkillExchange.css */
+.landing-container {
+    text-align: center;
+    background: linear-gradient(135deg, #05011a, #090d2b);
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2rem;
+  }
+  
+  .hero {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .hero h1 {
+    font-size: 5rem;
+    font-weight: bold;
+  }
+  
+  .highlight {
+    color: #4a90e2;
+  }
+  
+  .dot {
+    color: white;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .users-count {
+    font-size: 1.2rem;
+  }
+  
+  .count {
+    color: #4a90e2;
+    font-weight: bold;
+  }
+  
+  .cta-button {
+    background-color: #ffcc00;
+    color: black;
+    font-size: 1.5rem;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+    display: inline-block;
+    box-shadow: 0 4px 10px rgba(255, 204, 0, 0.5);
+  }
+  
+  .cta-button:hover {
+    background-color: #ffdd44;
+  }
+  
+  footer {
+    margin-top: auto;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .footer-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1rem;
+  }
+  
